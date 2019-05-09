@@ -63,7 +63,6 @@ INSERT INTO `visiteur` (`id`, `nom`, `prenom`, `login`, `mdp`, `adresse`, `cp`, 
 --
 
 INSERT INTO `visiteur` (`id`, `nom`, `prenom`, `login`, `mdp`, `adresse`, `cp`, `ville`, `dateEmbauche`) VALUES
-('a456', 'Morvan', 'Steven', 'smorvan', 'steven', '8 rue des Charmes', '46000', 'Cahors', '2005-12-21'),
-('b478', 'Alec', 'Gaborieau', 'agaborieau', 'alec', '30 avenue de la mer', '13025', 'Berre', '1985-11-01');
+('a456', 'Bouziane', 'Kamel', 'kbouziane', 'kamel', '3 promenade de l'abbaye', '92150', 'Suresnes', '2005-12-21');
 
 -- --------------------------------------------------------
